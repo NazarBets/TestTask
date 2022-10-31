@@ -1,0 +1,5 @@
+﻿  test_autosar.cpp
+C:\Users\tdp4a\OneDrive\Рабочий стол\Навчання\робота\Test\Intellias\test_autosar\test_autosar\test_autosar.cpp(22,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\tdp4a\OneDrive\Рабочий стол\Навчання\робота\Test\Intellias\test_autosar\test_autosar\test_autosar.cpp(13): warning C4715: min: значение возвращается не при всех путях выполнения
+C:\Users\tdp4a\OneDrive\Рабочий стол\Навчання\робота\Test\Intellias\test_autosar\test_autosar\test_autosar.cpp(19): warning C4715: max: значение возвращается не при всех путях выполнения
+  test_autosar.vcxproj -> C:\Users\tdp4a\OneDrive\Рабочий стол\Навчання\робота\Test\Intellias\test_autosar\Debug\test_autosar.exe
